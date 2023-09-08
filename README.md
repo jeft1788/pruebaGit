@@ -1,1 +1,1 @@
-Este es mi proyecto para Git
+Este es mi proyecto para Git para la calse de hoy
